@@ -1,3 +1,4 @@
 # Practice
 Practicing how to use Git and GitHub.<br>
-Muvva Adityavardhan
+Name : Muvva Adityavardhan
+College: GRIET
